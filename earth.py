@@ -6,4 +6,3 @@ def earth():
 
 
 earth()
-
